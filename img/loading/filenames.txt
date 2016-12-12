@@ -1,0 +1,4 @@
+loading/bluedive.tif
+loading/eye2.tif
+loading/eye.tif
+loading/loading.tif

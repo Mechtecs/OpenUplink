@@ -1,0 +1,22 @@
+{
+  "name": "openuplink",
+  "version": "0.0.1",
+  "description": "A game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mechtecs/OpenUplink.git"
+  },
+  "keywords": [
+    "uplink"
+  ],
+  "author": "mechtecs",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Mechtecs/OpenUplink/issues"
+  },
+  "homepage": "https://github.com/Mechtecs/OpenUplink#readme"
+}

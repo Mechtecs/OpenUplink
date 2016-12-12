@@ -1,0 +1,33 @@
+NAME:       Slick - Combo
+AUTHOR:     Tudor Stamate
+COMMENT:    A slick, modern theme. Blue & orange colors.
+
+
+; COLOURNAME                RED     GREEN   BLUE
+; ==============================================
+
+Background                  0.0		0.09	0.18
+DefaultText                 1.0		0.91	0.79
+DimmedText                  0.70	0.42	0.0
+MenuText                    1.0		0.64	0.10
+TitleText                   1.0		0.91	0.79
+TextBorder                  1.0		0.91	0.79
+
+ButtonNormalA               0.11	0.38	0.65
+ButtonNormalB               0.11	0.38	0.65
+ButtonHighlightedA          1.0		0.64	0.10
+ButtonHighlightedB          1.0		0.64	0.10
+ButtonClickedA              1.0		0.91	0.79
+ButtonClickedB              1.0		0.91	0.79
+
+PanelBackgroundA            0.03	0.24	0.46
+PanelBackgroundB            0.03	0.24	0.46
+PanelBorder                 1.0		0.91	0.79
+PanelHighlightA             0.11	0.38	0.65
+PanelHighlightB             0.11	0.38	0.65
+PanelHighlightBorder        1.0		0.91	0.79
+
+DarkPanelA                  0.03	0.24	0.46
+DarkPanelB                  0.03	0.24	0.46
+
+PasswordBoxBackground       0.03	0.24	0.46
